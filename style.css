@@ -1,0 +1,50 @@
+
+/* header content */
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+}
+
+.logo {
+    color: violet;
+    background-color: beige;
+    margin-left: 10px;
+    font-size: 50px;
+}
+
+.header-items {
+    display: flex;
+    margin-top: 20px;
+}
+
+.item-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.item-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.item-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/* content part */
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.writing {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: blueviolet;
+    color: white;
+    margin-top: 30px;
+}
